@@ -1,4 +1,4 @@
-#Что такое Qwenity?
+# Что такое Qwenity?
 
 Qwenity Это Локальный ИИ-чатбот на Python с использованием Ollama.
 
